@@ -1,6 +1,6 @@
 {
   "name": "react-native-locale-detector",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Detects the locale of a user's phone.",
   "keywords": [
     "android",
@@ -15,5 +15,5 @@
     "Dylan Vann <dylan.vann@gmail.com> (dylanvann.com)",
     "justjavac (@justjavac)"
   ],
-  "repository": "makedirectory/react-native-locale-detector"
+  "repository": "DragonSpirit/react-native-locale-detector"
 }
